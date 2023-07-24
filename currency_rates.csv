@@ -1,0 +1,223 @@
+country_name,name,currency_name,exchange_date,conversion_rate
+Afghanistan              ,Afghanistan Afghani                     ,AFN,30-Jun-23,85.1
+Albania                  ,Albania Lek(e)                          ,ALL,30-Jun-23,95.35
+Algeria                  ,Algerian Dinar                          ,DZD,30-Jun-23,134.894
+American Samoa           ,US Dollar                               ,USD,30-Jun-23,1
+Andorra                  ,Euro                                    ,EUR,30-Jun-23,0.913
+Angola                   ,Angolan Kwanza                          ,AOA,30-Jun-23,800.694
+Anguilla                 ,E.C. Dollar                             ,XCD,30-Jun-23,2.7
+Antigua and Barbuda      ,E.C. Dollar                             ,XCD,30-Jun-23,2.7
+Argentina                ,Argentine Peso                          ,ARS,30-Jun-23,255.134
+Armenia                  ,Armenian Dram                           ,AMD,30-Jun-23,384.4
+Aruba                    ,Aruban Guilder                          ,AWG,30-Jun-23,1.79
+Australia                ,Australian Dollar                       ,AUD,30-Jun-23,1.497
+Austria                  ,Euro                                    ,EUR,30-Jun-23,0.913
+Azerbaijan               ,Azerbaijan Manat                        ,AZN,30-Jun-23,1.695
+Bahamas                  ,Bahamian Dollar                         ,BSD,30-Jun-23,1
+Bahrain                  ,Bahraini Dinar                          ,BHD,30-Jun-23,0.377
+Bangladesh               ,Bangladesh Taka                         ,BDT,30-Jun-23,107
+Barbados                 ,Barbados Dollar                         ,BBD,30-Jun-23,2
+Belarus                  ,Belarusian Ruble                        ,BYN,30-Jun-23,2.98
+Belgium                  ,Euro                                    ,EUR,30-Jun-23,0.913
+Belize                   ,Belize Dollar                           ,BZD,30-Jun-23,2
+Benin                    ,CFA Franc                               ,XOF,30-Jun-23,599.157
+Bermuda                  ,Bermuda Dollar                          ,BMD,30-Jun-23,1
+Bhutan                   ,Bhutan Ngultrum                         ,BTN,30-Jun-23,82.03
+Bolivia                  ,Bolivia Boliviano                       ,BOB,30-Jun-23,6.855
+Bosnia and Herzegovina   ,Bosnia and Herzegovina Convertible Mark ,BAM,30-Jun-23,1.786
+Botswana                 ,Botswana Pula                           ,BWP,30-Jun-23,13.333
+Brazil                   ,Brazilian Real                          ,BRL,30-Jun-23,4.79
+Brunei                   ,Brunei Dollar                           ,BND,30-Jun-23,1.349
+Bulgaria                 ,Bulgarian Lev                           ,BGN,30-Jun-23,1.786
+Burkina Faso             ,CFA Franc                               ,XOF,30-Jun-23,599.157
+Burundi                  ,Burundi Franc                           ,BIF,30-Jun-23,2803.888
+Cambodia                 ,Cambodian Riel                          ,KHR,30-Jun-23,4121
+Cameroon                 ,CFA Franc                               ,XAF,30-Jun-23,599.157
+Canada                   ,Canadian Dollar                         ,CAD,30-Jun-23,1.319
+Canary Islands           ,Euro                                    ,EUR,30-Jun-23,0.913
+Cape Verde               ,Cape Verde Escudo                       ,CVE,30-Jun-23,100.717
+Cayman Islands           ,Cayman Is. Dollar                       ,KYD,30-Jun-23,0.82
+Central African Republic ,CFA Franc                               ,XAF,30-Jun-23,599.157
+Chad                     ,CFA Franc                               ,XAF,30-Jun-23,599.157
+Chile                    ,Chilean Peso                            ,CLP,30-Jun-23,802
+China                    ,Chinese Renminbi                        ,CNY,30-Jun-23,7.216
+Colombia                 ,Colombian Peso                          ,COP,30-Jun-23,4126
+Comoros                  ,Comoros Franc                           ,KMF,30-Jun-23,449.368
+Congo                    ,CFA Franc                               ,XAF,30-Jun-23,599.157
+"Congo, Dem. Rep.         ","Congo Franc, Dem. Rep.of                ",CDF,30-Jun-23,2210.805
+Cook Islands             ,New Zealand Dollar                      ,NZD,30-Jun-23,1.622
+Costa Rica               ,Costa Rica Colon                        ,CRC,30-Jun-23,542.51
+Cote d'Ivoire            ,CFA Franc                               ,XOF,30-Jun-23,599.157
+Croatia                  ,Euro                                    ,EUR,30-Jun-23,0.913
+Cuba                     ,Cuban Peso                              ,CUP,30-Jun-23,24
+Cyprus                   ,Euro                                    ,EUR,30-Jun-23,0.913
+Czech Republic           ,Czech Koruna                            ,CZK,30-Jun-23,21.54
+Denmark                  ,Danish Krone                            ,DKK,30-Jun-23,6.802
+Djibouti                 ,Djibouti Francs                         ,DJF,30-Jun-23,177
+Dominica                 ,E.C. Dollar                             ,XCD,30-Jun-23,2.7
+Dominican Republic       ,Dominican Peso                          ,DOP,30-Jun-23,54.727
+East Timor               ,US Dollar                               ,USD,30-Jun-23,1
+Ecuador                  ,US Dollar                               ,USD,30-Jun-23,1
+Egypt                    ,Egyptian Pound                          ,EGP,30-Jun-23,30.864
+El Salvador              ,US Dollar                               ,USD,30-Jun-23,1
+Equatorial Guinea        ,CFA Franc                               ,XAF,30-Jun-23,599.157
+Eritrea                  ,Eritrea Nakfa                           ,ERN,30-Jun-23,15
+Estonia                  ,Euro                                    ,EUR,30-Jun-23,0.913
+"Eswatini, Kingdom of     ",Lilangeni                               ,SZL,30-Jun-23,18.513
+Ethiopia                 ,Ethiopian Birr                          ,ETB,30-Jun-23,54.66
+Fiji                     ,Fiji Dollar                             ,FJD,30-Jun-23,2.21
+Finland                  ,Euro                                    ,EUR,30-Jun-23,0.913
+France                   ,Euro                                    ,EUR,30-Jun-23,0.913
+French Guiana            ,Euro                                    ,EUR,30-Jun-23,0.913
+French Polynesia         ,CFP Franc                               ,XPF,30-Jun-23,108.999
+Gabon                    ,CFA Franc                               ,XAF,30-Jun-23,599.157
+Gambia                   ,Gambian Dalasi                          ,GMD,30-Jun-23,59.39
+Georgia                  ,Georgian Lari                           ,GEL,30-Jun-23,2.626
+Germany                  ,Euro                                    ,EUR,30-Jun-23,0.913
+Ghana                    ,Ghana Cedi                              ,GHS,30-Jun-23,11.1
+Gibraltar                ,Gibraltar Pound                         ,GIP,30-Jun-23,0.785
+Greece                   ,Euro                                    ,EUR,30-Jun-23,0.913
+Greenland                ,Danish Krone                            ,DKK,30-Jun-23,6.802
+Grenada                  ,E.C. Dollar                             ,XCD,30-Jun-23,2.7
+Guadeloupe               ,Euro                                    ,EUR,30-Jun-23,0.913
+Guam                     ,US Dollar                               ,USD,30-Jun-23,1
+Guatemala                ,Guatemala Quetzal(es)                   ,GTQ,30-Jun-23,7.837
+Guinea                   ,Guinean Franc                           ,GNF,30-Jun-23,8505.29
+Guinea-Bissau            ,CFA Franc                               ,XOF,30-Jun-23,599.157
+Guyana                   ,Guyana Dollar                           ,GYD,30-Jun-23,210.3
+Haiti                    ,Haiti Gourde                            ,HTG,30-Jun-23,137.85
+Honduras                 ,Honduras Lempira                        ,HNL,30-Jun-23,24.442
+Hong Kong                ,HongKong Dollar                         ,HKD,30-Jun-23,7.833
+Hungary                  ,Hungary Forint                          ,HUF,30-Jun-23,337.31
+Iceland                  ,Iceland Krona                           ,ISK,30-Jun-23,135.92
+India                    ,Indian Rupee                            ,INR,30-Jun-23,82.03
+Indonesia                ,Indonesia Rupiah                        ,IDR,30-Jun-23,14987
+Iran                     ,Iranian Rial                            ,IRR,30-Jun-23,371934
+Iraq                     ,Iraqi Dinar                             ,IQD,30-Jun-23,1310
+Ireland                  ,Euro                                    ,EUR,30-Jun-23,0.913
+Israel                   ,Israel Shekel                           ,ILS,30-Jun-23,3.651
+Italy                    ,Euro                                    ,EUR,30-Jun-23,0.913
+Jamaica                  ,Jamaican Dollar                         ,JMD,30-Jun-23,153.021
+Japan                    ,Japanese Yen                            ,JPY,30-Jun-23,143.87
+Jordan                   ,Jordanian Dinar                         ,JOD,30-Jun-23,0.708
+Kazakhstan               ,Kazakhstan Tenge                        ,KZT,30-Jun-23,450.38
+Kenya                    ,Kenyan Shilling                         ,KES,30-Jun-23,140.28
+Kiribati                 ,Australian Dollar                       ,AUD,30-Jun-23,1.497
+"Korea, D.P.R. of         ","Korean Won, North Korea                 ",KPW,30-Jun-23,110
+"Korea, Republic of       ","Korean Won, South Korea                 ",KRW,30-Jun-23,1300.03
+Kuwait                   ,Kuwaiti Dinar                           ,KWD,30-Jun-23,0.307
+Kyrgyzstan               ,Kyrgyzstan Som                          ,KGS,30-Jun-23,87
+"Lao, People's Dem. Rep.  ",Laos Kip                                ,LAK,30-Jun-23,18973.68
+Latvia                   ,Euro                                    ,EUR,30-Jun-23,0.913
+Lebanon                  ,Lebanese Pound                          ,LBP,30-Jun-23,86200
+Lesotho                  ,Lesotho Loti                            ,LSL,30-Jun-23,18.513
+Liberia                  ,Liberian Dollar                         ,LRD,30-Jun-23,176.175
+Libyan Arab Jamahiriya   ,Libyan Dinar                            ,LYD,30-Jun-23,4.834
+Liechtenstein            ,Swiss Franc                             ,CHF,30-Jun-23,0.895
+Lithuania                ,Euro                                    ,EUR,30-Jun-23,0.913
+Luxembourg               ,Euro                                    ,EUR,30-Jun-23,0.913
+Macao                    ,Macao Pataca                            ,MOP,30-Jun-23,8.068
+Madagascar               ,"Malagasy Ariary, Madagascar             ",MGA,30-Jun-23,4490.2
+Malawi                   ,Malawi Kwacha                           ,MWK,30-Jun-23,1063.86
+Malaysia                 ,Malaysia Ringgit                        ,MYR,30-Jun-23,4.664
+Maldives                 ,Maldives Rufiyaa                        ,MVR,30-Jun-23,15
+Mali                     ,CFA Franc                               ,XOF,30-Jun-23,599.157
+Malta                    ,Euro                                    ,EUR,30-Jun-23,0.913
+Marshall Islands         ,US Dollar                               ,USD,30-Jun-23,1
+Martinique               ,Euro                                    ,EUR,30-Jun-23,0.913
+Mauritania               ,Mauritania Ouguiya                      ,MRU,30-Jun-23,34.3
+Mauritius                ,Mauritius Rupee                         ,MUR,30-Jun-23,45.3
+Mexico                   ,Mexican Peso                            ,MXN,30-Jun-23,17.07
+Micronesia               ,US Dollar                               ,USD,30-Jun-23,1
+"Moldova, Republic of     ",Moldovan Leu                            ,MDL,30-Jun-23,18.1
+Monaco                   ,Euro                                    ,EUR,30-Jun-23,0.913
+Mongolia                 ,Mongolia Tugrik                         ,MNT,30-Jun-23,3424.34
+Montenegro               ,Euro                                    ,EUR,30-Jun-23,0.913
+Montserrat               ,E.C. Dollar                             ,XCD,30-Jun-23,2.7
+Morocco                  ,Morocco Dirham                          ,MAD,30-Jun-23,9.9
+Mozambique               ,Mozambique Metical                      ,MZN,30-Jun-23,63.25
+Myanmar                  ,Myanmar Kyat                            ,MMK,30-Jun-23,2100
+Namibia                  ,Namibia Dollar                          ,NAD,30-Jun-23,18.513
+Nauru                    ,Australian Dollar                       ,AUD,30-Jun-23,1.497
+Nepal                    ,Nepalese Rupee                          ,NPR,30-Jun-23,131.109
+Netherlands              ,Euro                                    ,EUR,30-Jun-23,0.913
+Netherlands Antilles     ,Netherlands Antilles Guilder            ,ANG,30-Jun-23,1.79
+New Caledonia            ,CFP Franc                               ,XPF,30-Jun-23,108.999
+New Zealand              ,New Zealand Dollar                      ,NZD,30-Jun-23,1.622
+Nicaragua                ,Nicaragua Cordoba Oro                   ,NIO,30-Jun-23,36.166
+Niger                    ,CFA Franc                               ,XOF,30-Jun-23,599.157
+Nigeria                  ,Nigeria Naira                           ,NGN,30-Jun-23,752.19
+Niue                     ,New Zealand Dollar                      ,NZD,30-Jun-23,1.622
+"North Macedonia, Rep. of ",Denar                                   ,MKD,30-Jun-23,56.018
+Northern Mariana Islands ,US Dollar                               ,USD,30-Jun-23,1
+Norway                   ,Norwegian Krone                         ,NOK,30-Jun-23,10.745
+Oman                     ,Oman Rial                               ,OMR,30-Jun-23,0.385
+Pakistan                 ,Pakistani Rupee                         ,PKR,30-Jun-23,285.225
+"Palau, Republic of       ",US Dollar                               ,USD,30-Jun-23,1
+Panama                   ,Panama Balboa                           ,PAB,30-Jun-23,1
+Papua New Guinea         ,Kina                                    ,PGK,30-Jun-23,3.559
+Paraguay                 ,Paraguay Guarani                        ,PYG,30-Jun-23,7257
+Peru                     ,Sol                                     ,PEN,30-Jun-23,3.637
+Philippines              ,Philippine Peso                         ,PHP,30-Jun-23,55.317
+Poland                   ,Poland Zloty                            ,PLN,30-Jun-23,4.051
+Portugal                 ,Euro                                    ,EUR,30-Jun-23,0.913
+Puerto Rico              ,US Dollar                               ,USD,30-Jun-23,1
+Qatar                    ,Qatari Rial                             ,QAR,30-Jun-23,3.645
+Reunion                  ,Euro                                    ,EUR,30-Jun-23,0.913
+Romania                  ,Romanian Leu                            ,RON,30-Jun-23,4.53
+Russian Federation       ,Russian Rouble                          ,RUB,30-Jun-23,85.114
+Rwanda                   ,Rwanda Franc                            ,RWF,30-Jun-23,1146.522
+Saint Helena             ,St.Helena Pound                         ,SHP,30-Jun-23,0.785
+Saint Kitts and Nevis    ,E.C. Dollar                             ,XCD,30-Jun-23,2.7
+Saint Lucia              ,E.C. Dollar                             ,XCD,30-Jun-23,2.7
+Samoa                    ,Samoa Tala                              ,WST,30-Jun-23,2.691
+San Marino               ,Euro                                    ,EUR,30-Jun-23,0.913
+Sao Tome and Principe    ,Sao Tome Principe Dobra                 ,STN,30-Jun-23,22.934
+Saudi Arabia             ,Saudi Riyal                             ,SAR,30-Jun-23,3.751
+Senegal                  ,CFA Franc                               ,XOF,30-Jun-23,599.157
+Serbia                   ,Serbian Dinar                           ,RSD,30-Jun-23,107.016
+Seychelles               ,Seychelles Rupee                        ,SCR,30-Jun-23,13.283
+Sierra Leone             ,Sierra Leone Leone                      ,SLE,30-Jun-23,19
+Singapore                ,Singapore Dollar                        ,SGD,30-Jun-23,1.349
+Slovakia                 ,Euro                                    ,EUR,30-Jun-23,0.913
+Slovenia                 ,Euro                                    ,EUR,30-Jun-23,0.913
+Solomon Islands          ,Solomon Is. Dollar                      ,SBD,30-Jun-23,8.15
+Somalia                  ,Somali Shilling                         ,SOS,30-Jun-23,24300
+South Africa             ,South Africa Rand                       ,ZAR,30-Jun-23,18.513
+South Sudan              ,South Sudanese Pound                    ,SSP,30-Jun-23,986.704
+Spain                    ,Euro                                    ,EUR,30-Jun-23,0.913
+Sri Lanka                ,Sri Lanka Rupee                         ,LKR,30-Jun-23,307.69
+St. Vincent and the Grena,E.C. Dollar                             ,XCD,30-Jun-23,2.7
+Sudan                    ,Sudanese Pound                          ,SDG,30-Jun-23,575.27
+Suriname                 ,Surinamese Dollar                       ,SRD,30-Jun-23,38.198
+Sweden                   ,Swedish Krona                           ,SEK,30-Jun-23,10.735
+Switzerland              ,Swiss Franc                             ,CHF,30-Jun-23,0.895
+Syrian Arab Republic     ,Syrian Pound                            ,SYP,30-Jun-23,6500
+Tajikistan               ,Tajikistan Somoni                       ,TJS,30-Jun-23,10.914
+"Tanzania, United Rep. of ",Tanzania Shilling                       ,TZS,30-Jun-23,2368.6
+Thailand                 ,Thai Baht                               ,THB,30-Jun-23,35.27
+Togo                     ,CFA Franc                               ,XOF,30-Jun-23,599.157
+Tokelau Islands          ,New Zealand Dollar                      ,NZD,30-Jun-23,1.622
+Tonga                    ,Tonga Pa'anga                           ,TOP,30-Jun-23,2.315
+Trinidad and Tobago      ,Trinidad and Tobago Dollar              ,TTD,30-Jun-23,6.76
+Tunisia                  ,Tunisian Dinar                          ,TND,30-Jun-23,3.083
+Turkey                   ,Turkish Lira                            ,TRY,30-Jun-23,26.005
+Turkmenistan             ,Turkmenistan Manat                      ,TMT,30-Jun-23,3.5
+Turks and Caicos Island  ,US Dollar                               ,USD,30-Jun-23,1
+Tuvalu                   ,Australian Dollar                       ,AUD,30-Jun-23,1.497
+Uganda                   ,Uganda Shilling                         ,UGX,30-Jun-23,3671.58
+Ukraine                  ,Ukraine Hryvnia                         ,UAH,30-Jun-23,37
+United Arab Emirates     ,United Arab Emirates Dirham             ,AED,30-Jun-23,3.673
+United Kingdom           ,U.K. Pound                              ,GBP,30-Jun-23,0.785
+United States of America ,US Dollar                               ,USD,30-Jun-23,1
+Uruguay                  ,Uruguay Peso                            ,UYU,30-Jun-23,37.4
+Uzbekistan               ,Uzbekistan Sum                          ,UZS,30-Jun-23,11480
+Vanuatu                  ,Vanuatu Vatu                            ,VUV,30-Jun-23,114.16
+Venezuela                ,Bolivar Digital                         ,VES,30-Jun-23,27.542
+Viet Nam                 ,Viet Nam Dong                           ,VND,30-Jun-23,23505
+Virgin Islands (UK)      ,US Dollar                               ,USD,30-Jun-23,1
+Virgin Islands (USA)     ,US Dollar                               ,USD,30-Jun-23,1
+Wallis and Futuna Islands,CFP Franc                               ,XPF,30-Jun-23,108.999
+"Yemen, Republic of       ",Yemeni Rial                             ,YER,30-Jun-23,511.68
+Zambia                   ,Zambia Kwacha                           ,ZMW,30-Jun-23,17.25
+Zimbabwe                 ,Zimbabwe RTGS dollar                    ,ZWL,30-Jun-23,6862.278
